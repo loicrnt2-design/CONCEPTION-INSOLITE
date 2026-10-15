@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 720" fill="none">
+  <defs>
+    <pattern id="grid" width="18" height="18" patternUnits="userSpaceOnUse"><path d="M18 0H0v18" stroke="#226184" stroke-opacity=".1"/></pattern>
+  </defs>
+  <path fill="#f1eee4" d="M0 0h540v720H0z"/>
+  <path fill="url(#grid)" d="M0 0h540v720H0z"/>
+  <g stroke="#2b7091" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m76 160 170-33 193 36-177 38-186-41Z"/>
+    <path d="m76 160 1 115 186 43m176-158 1 115-177 43m0-117v117"/>
+    <path d="m111 155 1 113m44-122v132m43-140v150m44-156v166m44-167v168m45-176v165m43-156v147"/>
+    <path d="m76 195 187 42 176-38M77 231l185 42 177-38"/>
+  </g>
+  <g stroke="#386e87" stroke-width="2">
+    <path d="m58 112 392-1m-392-12v25m392-25v25M58 110l11-6m-11 6 11 6m381-12 11 6-11 6"/>
+    <path d="m489 142 3 175m-10-175h20m-20 175h20m-12-166-5 10m5-10 5 10m-5 146-5-10m5 10 5-10"/>
+  </g>
+  <g stroke="#2b7091" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m96 434 162-30 171 32-164 36-169-38Z"/>
+    <path d="m96 434 1 142 168 42m164-182v141l-164 41m0-146v146"/>
+    <path d="m137 426 1 160m45-168v179m44-188v198m42-205v215m43-207v196m43-189v178m43-169v159"/>
+    <path d="m97 478 168 39 164-36m-331 77 167 39 164-36"/>
+  </g>
+  <g stroke="#a8794f" stroke-width="2.5">
+    <path d="M214 230c9-23 26-34 49-34s41 11 50 34m-98 0h98"/>
+    <path d="M205 529c12-23 31-34 58-34s47 11 58 34m-116 0h116"/>
+  </g>
+  <g fill="#2b7091" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">
+    <text x="76" y="77">ÉLÉVATION · 01</text>
+    <text x="76" y="379">PLAN D’AMÉNAGEMENT</text>
+    <text x="350" y="675">ÉCHELLE 1:50</text>
+  </g>
+</svg>
