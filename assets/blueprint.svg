@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" fill="none">
+  <defs>
+    <linearGradient id="board" x1="0" y1="0" x2="1200" y2="900" gradientUnits="userSpaceOnUse"><stop stop-color="#1f5579"/><stop offset="1" stop-color="#123c5d"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0v32" stroke="#b5e1e8" stroke-opacity=".13"/></pattern>
+    <pattern id="smallgrid" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M8 0H0v8" stroke="#b5e1e8" stroke-opacity=".09"/></pattern>
+  </defs>
+  <path fill="#e6dcc9" d="M0 0h1200v900H0z"/>
+  <path d="M67 56 1137 37l18 802-1072 26L67 56Z" fill="#ba956c" stroke="#a78159" stroke-width="3"/>
+  <path d="m91 75 1020-18 17 758-1020 22-17-762Z" fill="url(#board)" stroke="#f0d7ad" stroke-width="3"/>
+  <path d="m108 92 986-17 16 723-986 21-16-727Z" fill="url(#grid)"/>
+  <path d="m108 92 986-17 16 723-986 21-16-727Z" fill="url(#smallgrid)"/>
+  <g stroke="#c5e9ed" stroke-width="3">
+    <path d="m185 196 350-7 4 406-348 8-6-407Z"/>
+    <path d="m535 189 312-5 5 408-313 6-4-409Z"/>
+    <path d="m847 184 188-4 5 410-188 2-5-408Z"/>
+    <path d="m186 331 348-7m5 0 314-5m0 143 310-4"/>
+    <path d="m364 195 3 406m327-408 3 409m192-409 4 408"/>
+    <path d="m235 243 50-1m-50 14 50-1m-45 333 72-2"/>
+    <path d="m229 369 73-2m-72 15 73-2"/>
+    <path d="m425 392 67-1v73l-66 2v-74Z"/>
+    <path d="m630 244 117-2v77l-116 1m0 207 116-2v75l-115 2"/>
+    <path d="m896 229 102-2m-102 13 102-2m-92 349 83-1"/>
+    <path d="M367 442c47 0 91 42 92 91m0-91c-48 1-90 44-90 93m468-93c-45 1-82 42-82 92m0-92c44 0 81 41 82 90"/>
+  </g>
+  <g stroke="#f2d9b0" stroke-width="2">
+    <path d="m172 163 883-15m-883 8v-19m883 4v-19m-899 467 1 42m-14-21 28-1m883-21 1 42m-14-20 28-1"/>
+    <path d="m146 184 13 1m-10 411 14-1m871-439 1 14m9 417 15-1"/>
+    <path d="m556 633 259-4m-253 17 1 28m240-33 1 28"/>
+  </g>
+  <g fill="#e9d9bb" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">
+    <text x="139" y="131">PLAN D’AMÉNAGEMENT · RDC</text>
+    <text x="900" y="648">ÉCHELLE 1:50</text>
+    <text x="140" y="763">PROJET · CONCEPTION INSOLITE</text>
+    <text x="860" y="785">01 / ÉTUDE</text>
+  </g>
+  <path d="m871 647 185-3v111l-183 4-2-112Z" fill="#1a496a" stroke="#c5e9ed" stroke-width="2"/>
+  <path d="m888 730 52-69 28 48 30-39 42 57-152 3Z" stroke="#c5e9ed" stroke-width="2"/>
+  <path d="M915 690v18m0-10 14-15m-14 23-13-13" stroke="#f2d9b0" stroke-width="2"/>
+  <path d="m172 677 631-11m-626 25 2 72m616-85 1 42" stroke="#c5e9ed" stroke-opacity=".7"/>
+  <path d="m197 725 140-3m16 0 112-2m17-1 125-3m14-1 146-2" stroke="#d8bb91" stroke-width="9" stroke-linecap="round"/>
+  <path d="m198 725 139-3" stroke="#c99768" stroke-width="5" stroke-linecap="round"/>
+</svg>

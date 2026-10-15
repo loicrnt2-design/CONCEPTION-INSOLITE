@@ -1,0 +1,77 @@
+{
+  "_aide": "Catalogue de la boutique. Ajoutez un produit en copiant un bloc. categorie : Mobilier intérieur | Mobilier extérieur | Décoration | Luminaires | Textiles. prix : un nombre (ex. 120) ou \"[À COMPLÉTER]\". images : chemins de fichiers (ex. assets/produits/table.webp). lienAchat : lien de paiement (Stripe, Snipcart…) ou \"\" pour n'afficher que « Demander ce produit ». Tous les produits ci-dessous sont des EXEMPLES sans prix ni stock réels.",
+  "produits": [
+    {
+      "id": "table-basse-bois",
+      "nom": "Table basse en bois [À COMPLÉTER]",
+      "categorie": "Mobilier intérieur",
+      "prix": "[À COMPLÉTER]",
+      "description": "[À COMPLÉTER] Description du produit : style, usages, finitions.",
+      "matieres": ["[À COMPLÉTER]"],
+      "dimensions": "[À COMPLÉTER]",
+      "images": [],
+      "disponibilite": "[À COMPLÉTER]",
+      "lienAchat": ""
+    },
+    {
+      "id": "banc-exterieur",
+      "nom": "Banc d’extérieur [À COMPLÉTER]",
+      "categorie": "Mobilier extérieur",
+      "prix": "[À COMPLÉTER]",
+      "description": "[À COMPLÉTER] Description du produit : style, usages, entretien.",
+      "matieres": ["[À COMPLÉTER]"],
+      "dimensions": "[À COMPLÉTER]",
+      "images": [],
+      "disponibilite": "[À COMPLÉTER]",
+      "lienAchat": ""
+    },
+    {
+      "id": "suspension-luminaire",
+      "nom": "Suspension [À COMPLÉTER]",
+      "categorie": "Luminaires",
+      "prix": "[À COMPLÉTER]",
+      "description": "[À COMPLÉTER] Description du produit : ambiance, type d’éclairage.",
+      "matieres": ["[À COMPLÉTER]"],
+      "dimensions": "[À COMPLÉTER]",
+      "images": [],
+      "disponibilite": "[À COMPLÉTER]",
+      "lienAchat": ""
+    },
+    {
+      "id": "plaid-lin",
+      "nom": "Plaid [À COMPLÉTER]",
+      "categorie": "Textiles",
+      "prix": "[À COMPLÉTER]",
+      "description": "[À COMPLÉTER] Description du produit : toucher, coloris, entretien.",
+      "matieres": ["[À COMPLÉTER]"],
+      "dimensions": "[À COMPLÉTER]",
+      "images": [],
+      "disponibilite": "[À COMPLÉTER]",
+      "lienAchat": ""
+    },
+    {
+      "id": "vase-ceramique",
+      "nom": "Vase en céramique [À COMPLÉTER]",
+      "categorie": "Décoration",
+      "prix": "[À COMPLÉTER]",
+      "description": "[À COMPLÉTER] Description du produit : forme, finition, usage.",
+      "matieres": ["[À COMPLÉTER]"],
+      "dimensions": "[À COMPLÉTER]",
+      "images": [],
+      "disponibilite": "[À COMPLÉTER]",
+      "lienAchat": ""
+    },
+    {
+      "id": "chaise-longue",
+      "nom": "Chaise longue [À COMPLÉTER]",
+      "categorie": "Mobilier extérieur",
+      "prix": "[À COMPLÉTER]",
+      "description": "[À COMPLÉTER] Description du produit : confort, résistance aux intempéries.",
+      "matieres": ["[À COMPLÉTER]"],
+      "dimensions": "[À COMPLÉTER]",
+      "images": [],
+      "disponibilite": "[À COMPLÉTER]",
+      "lienAchat": ""
+    }
+  ]
+}

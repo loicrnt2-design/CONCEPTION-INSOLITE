@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="190 145 900 630" fill="none">
+  <defs>
+    <linearGradient id="wood" x1="561" y1="380" x2="947" y2="690" gradientUnits="userSpaceOnUse"><stop stop-color="#dab98e"/><stop offset="1" stop-color="#a67b55"/></linearGradient>
+    <linearGradient id="interior" x1="692" y1="340" x2="909" y2="584" gradientUnits="userSpaceOnUse"><stop stop-color="#fff8e9"/><stop offset="1" stop-color="#d7c4a4"/></linearGradient>
+    <linearGradient id="glass" x1="692" y1="372" x2="838" y2="564" gradientUnits="userSpaceOnUse"><stop stop-color="#bfd0c6" stop-opacity=".78"/><stop offset="1" stop-color="#668977" stop-opacity=".75"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0v24" stroke="#397090" stroke-opacity=".13"/></pattern>
+    <filter id="shadow" x="186" y="107" width="876" height="690" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="20"/></filter>
+  </defs>
+  <path d="M96 677 1088 535" stroke="#4380a0" stroke-opacity=".5" stroke-dasharray="7 8"/>
+  <path d="m301 722 539-79 205 86-548 87-196-94Z" fill="#bfa27d" opacity=".25" filter="url(#shadow)"/>
+  <path d="m284 658 558-78 216 92-565 84-209-98Z" fill="#e3d6bf" stroke="#bb9a6f" stroke-width="3"/>
+  <path d="m306 656 534-74 192 82-545 78-181-86Z" fill="url(#grid)" stroke="#4c7890" stroke-opacity=".72" stroke-width="2"/>
+  <path d="m327 658 97-151 232-31 2 207-150 23-181-48Z" fill="url(#wood)" stroke="#654b36" stroke-width="3"/>
+  <path d="m658 476 204 37-1 197-204-27V476Z" fill="#4d5c4b" stroke="#654b36" stroke-width="3"/>
+  <path d="m347 504 173-91 253 40-115 80-311-29Z" fill="#79664e" stroke="#654b36" stroke-width="3"/>
+  <path d="m534 413 41-94 279 36 79 132-78 28-17-25-206-38-98 52V413Z" fill="url(#interior)" stroke="#644f3b" stroke-width="4"/>
+  <path d="m591 327 249 32 77 127-147-26-180-29 1-104Z" fill="#223e45"/>
+  <path d="m603 337 225 29 64 97-144-25-145-24V337Z" fill="url(#glass)" stroke="#e5d5b9" stroke-width="4"/>
+  <path d="m603 440 144-2v118l-144-17V440Z" fill="#ede2d0" stroke="#a5845e" stroke-width="3"/>
+  <path d="m622 451 106-2v81l-106-13v-66Z" fill="#c89e71"/>
+  <path d="m649 472 74-1v44l-74-8v-35Z" fill="#eee4d3" stroke="#8c6a49" stroke-width="2"/>
+  <path d="m654 473 5 41m25-41v44m25-44v46" stroke="#a47c54" stroke-width="2"/>
+  <path d="m760 457 68 10v54l-68-9v-55Z" fill="#f5eddf" stroke="#8c6a49" stroke-width="2"/>
+  <path d="m771 461 47 7v38l-47-6v-39Z" fill="#becabc"/>
+  <path d="m865 502 63 14v61l-63-10v-65Z" fill="#d9bb8b" stroke="#72553a" stroke-width="3"/>
+  <path d="m875 512 43 9v35l-43-7v-37Z" fill="#f3ead9"/>
+  <path d="m726 485-27 26v52m37-79v76m-42-41h47" stroke="#66806a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M694 489c-12-25 5-42 20-33 11 7 10 22-2 35 2-23 23-31 30-16 7 15-11 29-28 28m29-23c16-16 33-6 27 9-5 12-18 14-31 6" fill="#647d62" stroke="#526d56" stroke-width="2"/>
+  <path d="m545 399 1 218m40-265-1 258m251-228 4 242m-297-259 286 38" stroke="#a57b52" stroke-width="5"/>
+  <path d="m537 395 294 40" stroke="#553f2d" stroke-width="9"/>
+  <path d="m535 625 124 44 205-31m-516 37 43 21 558-84" stroke="#7d593b" stroke-width="3"/>
+  <path d="m365 658-5-138 81-13 3 173m-69-135 54-8v101l-54 8V545Z" fill="#b8895c" stroke="#644b35" stroke-width="3"/>
+  <path d="M381 554v115m28-119v111" stroke="#e6c597" stroke-width="4"/>
+  <path d="m431 488 116-78m-109 97 123-82m-113 102 120-77" stroke="#cca57a" stroke-width="3"/>
+  <path d="m830 329 53 34m-51-38 2 147" stroke="#5e513e" stroke-width="8" stroke-linecap="round"/>
+  <path d="m775 322 15-42h13l12 45" fill="#49423a" stroke="#453d33" stroke-width="4"/>
+  <path d="m305 645 535-76 192 82-545 78-181-84Z" stroke="#d9bf96" stroke-width="2"/>
+  <g stroke="#256084" stroke-width="2">
+    <path d="m442 375 81-54m-81 54-3 19m81-73-1 19m-81-18h81"/>
+    <path d="m574 286 308 44m-308-44 8 15m300 29 9-13"/>
+    <path d="m939 504 94-13m-94 13-2-14m96 1-2-14"/>
+    <path d="m347 699-73 36m73-36-18-2m18 2-3 18"/>
+  </g>
+  <g fill="#28617e" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">
+    <text x="395" y="302">COUPE A–A · VOLUME HABITABLE</text>
+    <text x="900" y="311">STRUCTURE BOIS</text>
+    <text x="945" y="552">1:50</text>
+    <text x="247" y="764">PLAN · MATIÈRE · LUMIÈRE</text>
+  </g>
+  <g fill="#6e8c6d">
+    <path d="m270 634 16-105 13 105h-29Zm-14-62c-20-32-11-56 5-51 13 4 15 29-5 51Zm37-20c-4-35 17-51 27-39 8 11-4 33-27 39Zm-14-34c-21-29-14-48 2-44 12 4 13 24-2 44Zm637 191 9-78 11 78h-20Zm-8-50c-15-24-7-41 5-37 9 4 9 22-5 37Zm20-16c0-25 17-35 24-26 6 9-7 24-24 26Z"/>
+  </g>
+  <g fill="#7c956f"><circle cx="255" cy="617" r="13"/><circle cx="292" cy="599" r="11"/><circle cx="919" cy="690" r="12"/><circle cx="945" cy="672" r="9"/></g>
+  <path d="m310 647 19-144 211-82 44-99 302 44 112 147m-694 186 14 11 558-83" stroke="#28617e" stroke-opacity=".7" stroke-width="2" stroke-dasharray="6 7"/>
+</svg>
